@@ -1,6 +1,6 @@
 ![封面](./docs/docs/public/rin-logo.png)
 
-[English](./README.md) | 简体中文
+[English](./README.md) | 简体中文 cfut_5rHUpF5TUfiGiZBiFc1dlT3TRrgQVBDYmUpjbyAt21a8b3a7
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/openRin/Rin?style=for-the-badge)
 ![GitHub branch check runs](https://img.shields.io/github/check-runs/openRin/Rin/main?style=for-the-badge)
